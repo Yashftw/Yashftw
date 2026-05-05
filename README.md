@@ -39,7 +39,7 @@ Currently obsessed with: AI tools, edtech, and making things look unreasonably g
 &nbsp; My corner of the internet. Dark themed, obviously.
 
 [![AI Projects](3am-seven.vercel.app)]([https://github.com/YashisMad](https://github.com/Yashftw/3am))
-&nbsp; Experiments in making AI do the work I don't want to.
+&nbsp; To lock tf in.
 
 ---
 
