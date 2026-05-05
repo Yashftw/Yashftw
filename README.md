@@ -29,8 +29,7 @@ Currently obsessed with: AI tools, edtech, and making things look unreasonably g
 
 </div>
 
-<img align="left" src="<img width="720" height="720" alt="image" src="https://github.com/user-attachments/assets/1b2c7715-8005-48f4-bae4-813a539394dc" />
-" width="130" />
+<img align="center" src="https://github.com/user-attachments/assets/985e9cb9-43b2-4a76-b4ed-eee686ec9350" width="218" height="218" />
 
 [![BrainBlox](https://pixel-perfect-vision-cuemath-flashc-opal.vercel.app/)](https://github.com/Yashftw/pixel-perfect-vision-cuemath-flashcard-)
 &nbsp; Spaced repetition flashcard app — because your brain forgets everything unless you bully it with FSRS.
