@@ -1,8 +1,31 @@
 <div align="center">
 
-<!-- BANNER — replace this URL with your own custom banner image -->
-![banner](<img width="1024" height="344" alt="image" src="https://github.com/user-attachments/assets/7d31ced3-daec-4e26-8dd2-fb19c7fccb20" />
-)
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣤⣤⣤⠤⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⣶⣿⠿⠋⠂⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣴⣶⣿⣿⡿⢟⠫⠑⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢴⣿⣿⣿⡿⡫⠑⠊⢁⣀⣀⣀⣀⣠⡤⠖⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣾⣄⣀⣠⣾⢟⣛⣿⡷⠴⣾⣿⣿⣿⣿⡛⠏⠁⠀⠀⠀⢀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⠿⣿⡿⠑⢀⣛⣉⣁⣈⡊⠉⠉⠉⠀⠀⣀⠀⠀⠀⣿⣿⣿⣿⣶⣶⣶⠶⠃⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⣀⣠⡿⠃⢀⣿⣷⣾⣥⡄⠈⢹⣿⣿⣿⣿⣿⠿⠛⠁⣼⣿⣿⡿⡫⠽⠛⠛⠛⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠛⢿⣟⠁⣀⣼⣿⣿⣿⡿⠁⢀⣾⣿⣦⣍⠉⢉⣠⣴⣾⡟⢣⠰⣷⠀⠀⠀⣀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⣴⣤⣤⣴⠾⠻⠟⠉⠑⠒⠉⣁⣠⣴⣿⣿⡋⠝⡻⢷⣄⡈⠛⠛⠁⠒⢲⡌⣷⣶⣶⣿⣿⣿⣷⣤⡀⠀⠀⠀⠀⠀⠀
+⠀⠀⣾⣄⣀⣠⣾⣿⣿⣿⠏⠠⠒⠒⣲⣿⣿⠿⠿⣿⣿⣿⡿⢿⣆⠀⠁⠋⠉⠉⢀⣴⣦⡉⠁⣟⢩⡻⣿⠍⠛⠭⢛⠿⢶⣤⣤⠄⠀⠀
+⠀⠘⠻⣏⠉⢉⣿⡿⡫⠛⢃⣠⣶⣾⣿⣏⠂⠉⠉⠑⢽⣿⡌⠁⢸⠀⣿⣿⣿⣿⣿⣿⣿⣿⣷⢀⣼⡀⠀⠀⠀⠀⠀⠀⠈⠀⠀⠀⠀⠀
+⠀⠀⠀⣼⣿⡿⢧⠈⢡⡴⠊⠙⠉⠉⠉⠉⠁⠀⠀⠀⠈⣿⣷⠀⠀⠀⠉⢙⣿⣿⡯⠂⣾⣷⡐⠸⠟⣧⣄⣀⣤⣄⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠉⠀⠚⢻⠧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⣿⠋⠀⠀⢀⠀⠀⣍⠉⢀⣼⣿⣿⣷⣦⣠⡿⢛⣻⡿⢿⣷⣄⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⠎⠀⠀⠸⣿⠿⡋⢉⣿⣿⣿⣿⡇⠀⠀⠀⠉⠪⢛⢧⣀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⢀⣤⣄⣠⠆⣴⣿⣿⣶⣶⣶⣶⡤⠀⠀⠀⣴⣿⡏⠀⠀⠀⢰⡈⢁⣴⣿⣿⣿⣿⣿⣿⣦⣤⣤⡀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⣼⡿⠛⠁⣰⢟⣛⡻⣿⣿⣿⣿⡀⠀⠀⣼⣿⡿⠀⠀⠀⠀⠘⠟⠛⢻⡣⠰⣼⣿⠕⠉⠈⢻⣿⣧⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠈⣦⣶⡏⠀⣴⣾⡃⠀⠀⠈⣸⠿⡿⢿⣷⠀⠰⠛⣿⣧⠀⠀⠀⣰⣧⡤⢴⡿⠁⢀⡌⠁⢠⡄⠀⠈⠙⢿⡀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠈⠻⣧⠀⠙⢿⡇⠀⠤⢼⣿⠊⠉⣼⣿⠀⠀⢰⣿⣿⣷⣶⣿⣿⣿⠁⠈⠀⢠⣿⡿⢢⣿⣷⣤⡄⠀⠀⠉⠂⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠈⠁⠀⠈⠡⠀⠀⠀⠀⢀⣼⣿⡏⠀⠀⣿⣿⣿⣿⣿⡿⢿⡇⠀⣷⡾⠟⢛⡇⢸⣿⣿⣿⡅⠀⡀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣾⣿⣿⣿⠀⠀⢹⣿⣿⣿⣯⠊⠉⠁⠀⣿⠁⠀⠀⠀⢸⠊⢀⣿⣷⣾⠇⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⠿⡿⢿⣿⣿⣆⠀⠱⣝⠿⣧⠀⠀⠀⠀⠹⡀⢠⡆⠀⠀⠀⣸⣿⢟⠅⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⠁⠈⢺⣿⣿⣿⣆⠀⠀⠁⠊⠓⠄⠀⠀⠀⠀⠸⣿⣤⣤⣾⣿⡇⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠿⣿⡫⠝⠳⠦⣄⣀⡀⠀⠀⠀⠀⠀⠀⢻⣿⡟⠿⠿⠿⠂⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠚⢇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
 </div>
 
@@ -30,15 +53,15 @@ Currently obsessed with: AI tools, edtech, and making things look unreasonably g
 
 </div>
 
-<img align="center" src="https://github.com/user-attachments/assets/985e9cb9-43b2-4a76-b4ed-eee686ec9350" width="218" height="218" />
+<img align="right" src="https://github.com/user-attachments/assets/985e9cb9-43b2-4a76-b4ed-eee686ec9350" width="200" />
 
-[![BrainBlox](https://pixel-perfect-vision-cuemath-flashc-opal.vercel.app/)](https://github.com/Yashftw/pixel-perfect-vision-cuemath-flashcard-)
+**[BrainBlox](https://pixel-perfect-vision-cuemath-flashc-opal.vercel.app/)**
 &nbsp; Spaced repetition flashcard app — because your brain forgets everything unless you bully it with FSRS.
 
-[![Portfolio](Yashminal.vercel.app)](https://github.com/Yashftw/Yashminal)
+**[Portfolio](https://Yashminal.vercel.app)**
 &nbsp; My corner of the internet. Dark themed, obviously.
 
-[![3am motivation/DISCIPLINE tracker](3am-seven.vercel.app)]([https://github.com/YashisMad](https://github.com/Yashftw/3am))
+**[3am Discipline Tracker](https://3am-seven.vercel.app)**
 &nbsp; To lock tf in.
 
 ---
@@ -47,10 +70,9 @@ Currently obsessed with: AI tools, edtech, and making things look unreasonably g
 
 ## Connect
 
-[![Instagram](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=instagram)](https://www.instagram.com/yash_ftw_/)
+[![Instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram)](https://www.instagram.com/yash_ftw_/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yashrajyadav20055/)
 [![Gmail](https://img.shields.io/badge/Gmail-ea4335?style=for-the-badge&logo=gmail)](mailto:Yashrajyadav20055@gmail.com)
-
 
 </div>
 
@@ -59,7 +81,7 @@ Currently obsessed with: AI tools, edtech, and making things look unreasonably g
 <div align="center">
 
 > *Every commit I make is essentially just a small, desperate apology to my future self.*
-> 
+>
 > *Someday I will return to this codebase and wonder who let me anywhere near a keyboard.*
 
 </div>
