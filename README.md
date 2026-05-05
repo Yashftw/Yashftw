@@ -29,15 +29,16 @@ Currently obsessed with: AI tools, edtech, and making things look unreasonably g
 
 </div>
 
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTZqZTM5dThpcm5veGhzcHZzNGR5ZXlsMG9saTYzMHVxY2RjeWlkbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l0HlBO7eyXzSZkJri/giphy.gif" width="130" />
+<img align="left" src="<img width="720" height="720" alt="image" src="https://github.com/user-attachments/assets/1b2c7715-8005-48f4-bae4-813a539394dc" />
+" width="130" />
 
-[![BrainBlox](https://img.shields.io/badge/github-BrainBlox-black?style=flat&logo=github)](https://github.com/YashisMad/brainblox)
+[![BrainBlox](https://pixel-perfect-vision-cuemath-flashc-opal.vercel.app/)](https://github.com/Yashftw/pixel-perfect-vision-cuemath-flashcard-)
 &nbsp; Spaced repetition flashcard app — because your brain forgets everything unless you bully it with FSRS.
 
-[![Portfolio](https://img.shields.io/badge/github-Portfolio-black?style=flat&logo=github)](https://github.com/YashisMad)
+[![Portfolio](Yashminal.vercel.app)](https://github.com/Yashftw/Yashminal)
 &nbsp; My corner of the internet. Dark themed, obviously.
 
-[![AI Projects](https://img.shields.io/badge/github-AI--Tools-black?style=flat&logo=github)](https://github.com/YashisMad)
+[![AI Projects](3am-seven.vercel.app)]([https://github.com/YashisMad](https://github.com/Yashftw/3am))
 &nbsp; Experiments in making AI do the work I don't want to.
 
 ---
@@ -46,10 +47,10 @@ Currently obsessed with: AI tools, edtech, and making things look unreasonably g
 
 ## Connect
 
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/YashisMad)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Gmail](https://img.shields.io/badge/Gmail-ea4335?style=for-the-badge&logo=gmail)](mailto:youremail@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-333?style=for-the-badge&logo=readthedocs)](https://your-resume-link.com)
+[![Instagram](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=instagram)](https://www.instagram.com/yash_ftw_/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yashrajyadav20055/)
+[![Gmail](https://img.shields.io/badge/Gmail-ea4335?style=for-the-badge&logo=gmail)](mailto:Yashrajyadav20055@gmail.com)
+
 
 </div>
 
@@ -69,6 +70,6 @@ Currently obsessed with: AI tools, edtech, and making things look unreasonably g
 
 ## Contribution
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YashisMad&theme=github-compact&hide_border=true&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yashftw&theme=github-compact&hide_border=true&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff)
 
 </div>
