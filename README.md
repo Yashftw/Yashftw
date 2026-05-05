@@ -66,7 +66,7 @@ Currently obsessed with: AI tools, edtech, and making things look unreasonably g
 
 ---
 
-<div align="center">
+<div align="left">
 
 ## Connect
 
@@ -81,8 +81,7 @@ Currently obsessed with: AI tools, edtech, and making things look unreasonably g
 <div align="center">
 
 > *Every commit I make is essentially just a small, desperate apology to my future self.*
->
-> *Someday I will return to this codebase and wonder who let me anywhere near a keyboard.*
+
 
 </div>
 
