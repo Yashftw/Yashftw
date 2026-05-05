@@ -1,7 +1,8 @@
 <div align="center">
 
 <!-- BANNER — replace this URL with your own custom banner image -->
-![banner](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=200&section=header&text=Yashraj!&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=building%20things%20that%20shouldn't%20work%20but%20do&descAlignY=60&descSize=16&animation=fadeIn)
+![banner](<img width="1024" height="344" alt="image" src="https://github.com/user-attachments/assets/7d31ced3-daec-4e26-8dd2-fb19c7fccb20" />
+)
 
 </div>
 
@@ -37,7 +38,7 @@ Currently obsessed with: AI tools, edtech, and making things look unreasonably g
 [![Portfolio](Yashminal.vercel.app)](https://github.com/Yashftw/Yashminal)
 &nbsp; My corner of the internet. Dark themed, obviously.
 
-[![AI Projects](3am-seven.vercel.app)]([https://github.com/YashisMad](https://github.com/Yashftw/3am))
+[![3am motivation/DISCIPLINE tracker](3am-seven.vercel.app)]([https://github.com/YashisMad](https://github.com/Yashftw/3am))
 &nbsp; To lock tf in.
 
 ---
